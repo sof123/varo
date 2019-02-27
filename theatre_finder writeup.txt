@@ -1,0 +1,2 @@
+Parallelization of the API calls would help things be more time efficient. Caching results locally would also prevent
+there from being so many request sent out to MapRequest. 
